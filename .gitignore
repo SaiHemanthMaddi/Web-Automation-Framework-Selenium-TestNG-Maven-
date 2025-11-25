@@ -1,0 +1,24 @@
+# Maven
+target/
+*.log
+
+# IntelliJ / IDEA
+.idea/
+*.iml
+
+# Reports
+reports/
+screenshots/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Extent Reports Timestamped
+AutomationReport-*/
+
+# Local environment
+local.properties
